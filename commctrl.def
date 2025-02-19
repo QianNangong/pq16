@@ -1,4 +1,4 @@
-LIBRARY     KOMMONCTRL
+LIBRARY     KOMMCTRL
 EXPORTS
     WEP                         @1
     MENUHELP                    @2
